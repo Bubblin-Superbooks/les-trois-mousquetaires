@@ -1,0 +1,22 @@
+{
+  "name": "Les Trois Mousquetaires",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/les-trois-mousquetaires/master/assets",
+  "book_id": 881,
+  "book_url": "https://bubblin.io/book/les-trois-mousquetaires-by-alexandre-dumas"
+}
